@@ -1,0 +1,11 @@
+{
+  "kit": "dji-pocket4",
+  "brand": "DJI",
+  "product": "Osmo Pocket 4",
+  "stage": "#000000",
+  "accent": "#0EFF00 lock green (sampled from the product's own LED)",
+  "type": "OpenSans",
+  "motif": "lock beeps E6-G6-C7, 128 BPM",
+  "signature": "world-spin lock (world rotates, product card stays level)",
+  "notes": "Copy only from dji.com product page. Product share ~85% in the reference cut."
+}
